@@ -14,7 +14,7 @@ export default function Page() {
   const getNoButtonText = () => {
     const phrases = [
       "No",
-      "Are you sure?",
+      "cmon creme del creme Are you sure?",
       "Really sure?",
       "Think again!",
       "Last chance!",
@@ -43,7 +43,7 @@ export default function Page() {
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
           <div className="text-4xl md:text-6xl font-bold my-4">
-            Ok Yayyyyy!!!
+           Yayyyyy I❤️YOUU!!!
           </div>
         </>
       ) : (
@@ -61,7 +61,7 @@ export default function Page() {
             src="https://gifdb.com/images/high/cute-Love-bear-roses-ou7zho5oosxnpo6k.gif"
           />
           <h1 className="text-4xl md:text-6xl my-4 text-center">
-            Will you be my Valentine?
+            Creme del creme Will you be my Valentine?
           </h1>
           <div className="flex flex-wrap justify-center gap-2 items-center">
             <button
